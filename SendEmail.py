@@ -1,5 +1,5 @@
 __author__ = 'Burak Tekin'
-__contact__ = 'iletisim@buraktekin.net
+__contact__ = 'iletisim@buraktekin.net'
 # Department of Computer Science
 # Sending Email Using SMTP Authentication
 
