@@ -1,4 +1,5 @@
 __author__ = 'Burak Tekin'
+__contact__ = 'iletisim@buraktekin.net
 # Department of Computer Science
 # Sending Email Using SMTP Authentication
 
@@ -8,7 +9,7 @@ from smtplib import SMTPException, SMTP
 
 # ***************** E-MAIL CONFIGURATION ****************
 HostName = '<YOUR HOST NAME>'
-Port = 'SMTP PORT'
+Port = 'SMTP PORT' #Generally 587
 UserName = 'Your Username'
 Password = 'Your Password'
 debuglevel = 0
